@@ -1,3 +1,4 @@
+//sybau vsc
 import flixel.text.FlxText.FlxTextFormat;
 import flixel.text.FlxText.FlxTextFormatMarkerPair;
 
@@ -137,7 +138,7 @@ function beatHit() {
 
 	if (!finished) {
 		switch(curBeat) {
-			case 1: line(['HAVEN']);
+			case 1: line(['ALIZA']);
 			case 2: line(['PRESENTS']);
 
 			case 4: line(['IN ASSOCIATION WITH']);

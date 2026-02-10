@@ -2,7 +2,7 @@ import flixel.FlxState;
 import funkin.editors.charter.CharterSelection;
 import funkin.editors.character.CharacterSelection;
 import funkin.editors.UIDebugState;
-import funkin.editors.DebugOptions;
+import funkin.editors.alphabet.AlphabetSelection;
 import funkin.editors.ui.UIState;
 import Type;
 
@@ -20,9 +20,9 @@ var options:Array<{name:String, state:FlxState}> = [
 		state: UIDebugState
 	},
 	{
-		name: 'Debug Options',
-		state: DebugOptions
-	}
+		name: "Alphabet Editor",
+		state: AlphabetSelection
+	},
 ];
 
 var subCam:FlxCamera;

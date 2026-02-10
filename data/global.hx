@@ -1,3 +1,4 @@
+//sybau vsc
 import funkin.backend.MusicBeatState;
 import lime.graphics.Image;
 import funkin.options.Options;
@@ -203,7 +204,7 @@ static function updateGamepadBinds(?binds:Map<String, String>) {
 			Control.LEFT => getKeybinds('Left'),
 			Control.RIGHT => getKeybinds('Right'),
 			Control.PAUSE => getKeybinds('Pause'),
-			Control.RESET => getKeybinds('Reset')
+			Control.RESET => getKeybinds('Reset'),
 
 			Control.SWITCHMOD => getKeybinds('SwitchMod')
 		]);
@@ -254,12 +255,6 @@ function preStateSwitch() {
 		MusicBeatState.skipTransIn = MusicBeatState.skipTransOut = true;
 		FlxG.game._requestedState = FlxG.save.data.freeINTROSPLASH ? new ModState('SplashScreen') : new ModState('Title');
 	}
-
-	for (stupid => smart in redirectStates) {
-		if (FlxG.game._requestedState is stupid) {
-			FlxG.game._requestedState = new ModState(smart);
-		}
-	}
 }
 
 public var fullscreenSound:FlxSound;
@@ -276,8 +271,6 @@ function postStateSwitch() {
 	FlxSoundTray.volumeDownChangeSFX = Paths.sound("volume/snd_ribbit2");
 	FlxG.sound.volumeHandler = soundTray;
 	FlxG.sound.soundTray.alpha = 0;
-
-	window.title = "Made with FNF: Codename Engine";
 
 	for (cam in FlxG.cameras.list) {
 		cam.antialiasing = false;
