@@ -16,13 +16,7 @@ public var opponentIconShadow:FreeIcon;
 
 public var uiskin:String = "default";
 
-function onCountdown(event) {
-	if (event.swagCounter != 4) {
-		event.spritePath = "game/spr_countdown_" + event.swagCounter;
-		event.soundPath = "gameplay/snd_" + (event.swagCounter == 3 ? "go" : FlxMath.remapToRange(event.swagCounter-1, -1, 3, 3, -1));
-		event.scale = 2;
-	}
-}
+function onCountdown(event) if (event.swagCounter != 4) event.scale = 2;
 
 function onPostCountdown(event) {
 	if (event.sprite != null) {

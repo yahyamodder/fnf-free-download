@@ -23,8 +23,6 @@ public var camera = {
 public var _locked:Bool = false;
 public var _lockPos:{x:Float, y:Float} = {x: 0, y: 0};
 
-function postCreate() camGame.followLerp = 0.02;
-
 function postUpdate(elapsed:Float) {
 	camGame.scroll.set(FlxMath.roundDecimal(camGame.scroll.x, 2), FlxMath.roundDecimal(camGame.scroll.y, 2));
 }
