@@ -9,7 +9,7 @@ import flixel.text.FlxText.FlxTextFormatMarkerPair;
 var xml:Xml;
 var curElements:Array<Xml>;
 var dumb:String = "pre";
-var song:String = PlayState.instance.SONG.meta.name;
+var song:String = PlayState.SONG.meta.name;
 var curIndex:Int = -1;
 
 var music:FlxSound;

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="cdpun.png" width="133" height="297">
+	<SubTexture name="spr_cdpun_0" x="1" y="1" width="66" height="95" frameX="-0" frameY="-3" frameWidth="67" frameHeight="98"/>
+	<SubTexture name="spr_cdpun_1" x="67" y="102" width="65" height="95" frameX="-0" frameY="-3" frameWidth="67" frameHeight="98"/>
+	<SubTexture name="spr_cdpun_2" x="66" y="200" width="63" height="96" frameX="-0" frameY="-2" frameWidth="67" frameHeight="98"/>
+	<SubTexture name="spr_cdpun_3" x="1" y="99" width="63" height="97" frameX="-0" frameY="-1" frameWidth="67" frameHeight="98"/>
+	<SubTexture name="spr_cdpun_4" x="1" y="199" width="62" height="97" frameX="-1" frameY="-1" frameWidth="67" frameHeight="98"/>
+	<SubTexture name="spr_cdpun_5" x="1" y="199" width="62" height="97" frameX="-1" frameY="-1" frameWidth="67" frameHeight="98"/>
+	<SubTexture name="spr_cdpun_6" x="1" y="199" width="62" height="97" frameX="-1" frameY="-1" frameWidth="67" frameHeight="98"/>
+	<SubTexture name="spr_cdpunpause" x="70" y="1" width="62" height="98" frameX="-0" frameY="-0" frameWidth="62" frameHeight="98"/>
+</TextureAtlas>

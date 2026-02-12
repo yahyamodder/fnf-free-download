@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character antialiasing="false" holdTime="8" flipX="false" isPlayer="false">
+<character y="20" antialiasing="false" holdTime="8" flipX="false" isPlayer="false">
 	<anim x="0" loop="false" y="0" fps="12" anim="spr_cdboyidle_" name="idle"/>
 	<anim x="0" loop="false" y="0" fps="12" anim="spr_cdboyleft_" name="singLEFT"/>
 	<anim x="0" loop="false" y="0" fps="12" anim="spr_cdboydown_" name="singDOWN"/>

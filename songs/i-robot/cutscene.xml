@@ -67,5 +67,70 @@
 		karaoke machine?
 	</talk>
 
+	<talk character="dude">
+		wait... I think you're onto 
+		something!
+	</talk>
+	<talk character="dude">
+		you said that your dad was the 
+		%'karaoke king'% right?
+	</talk>
+	<!-- no checkmark 💔 -->
+	<talk character="lady">
+		V 
+	</talk>
+
+	<talk character="dude">
+		do you think if I beat him in a karaoke match, I could show him im worthy of dating his daughter!
+	</talk>
+	<talk character="lady">
+		???
+	</talk>
+
+	<talk character="dude">
+		oh man this is going to be perfect!!
+	</talk>
+
+	<sprite path="5" dude="true"/>
+	<talk character="dude">
+		i can use the power of MUSIC to
+		win over your dad!
+	</talk>
+
+	<sprite path="6" dude="true"/>
+	<talk character="dude">
+		just uh... one problem though.
+	</talk>
+
+	<talk character="dude">
+		im butt awful at singing[wait:0.45] huh?                                   
+	</talk>
+
+	<talk character="teachvee">
+		HELLO FRIENDS. [wait:0.25]
+		MY NAME IS TEACHVEE AND I WILL BE YOUR SINGING INSTRUCTOR FOR TODAY.
+	</talk>
+
+	<talk character="dude">
+		uh,[wait:0.45] hi?
+	</talk>
+
+	<sprite path="11" dude="false"/>
+	<talk character="teachvee">
+		I COULDN'T HELP BUT NOTICE YOUR STATEMENT ABOUT YOUR SINGING ABILITIES.
+	</talk>
+	<talk character="teachvee">
+		DO YOU WISH TO NOT BE [wait:0.30] BUTT-AWFUL.
+	</talk>
+
+	<talk character="teachvee">
+		um,[wait:0.125] yeah that sounds cool,[wait:0.5] I guess?
+	</talk>
+
+	<sprite path="13" dude="false"/>
+	<talk character="teachvee">
+		THEN GIVE THIS SONG A TRY!
+	</talk>
+
 	<close/>
 </pre>

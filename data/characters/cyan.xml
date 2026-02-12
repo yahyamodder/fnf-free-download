@@ -15,4 +15,6 @@
 	<anim x="-5" loop="false" y="-21" fps="12" anim="spr_cyandanceleftdown" name="danceleftdown"/>
 	<anim x="14" loop="false" y="-11" fps="12" anim="spr_cyandancerightup" name="dancerightup"/>
 	<anim x="7" loop="false" y="-24" fps="12" anim="spr_cyandancerightdown" name="dancerightdown"/>
+	<anim x="14" loop="false" y="-11" fps="12" anim="spr_cyansnoredown_" name="snoredown"/>
+	<anim x="7" loop="false" y="-24" fps="12" anim="spr_cyansnoreup_" name="snoreup"/>
 </character>

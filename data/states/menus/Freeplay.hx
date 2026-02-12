@@ -1,3 +1,4 @@
+//fuck you vsc
 import haxe.Json;
 import haxe.io.Path;
 import funkin.backend.assets.ModsFolder;

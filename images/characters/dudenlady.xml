@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dudenlady.png">
+	<SubTexture name="spr_dudenladyw2ayy_0.png" x="579" y="723" width="112" height="203"/>
+	<SubTexture name="spr_dudenladyw2ayysuck_0.png" x="582" y="241" width="112" height="203"/>
+	<SubTexture name="spr_dudenladyw2down_0" x="800" y="219" width="108" height="185"/>
+	<SubTexture name="spr_dudenladyw2down_1" x="898" y="0" width="108" height="185"/>
+	<SubTexture name="spr_dudenladyw2down_2" x="128" y="806" width="108" height="185"/>
+	<SubTexture name="spr_dudenladyw2down_3" x="237" y="806" width="108" height="185"/>
+	<SubTexture name="spr_dudenladyw2down_4" x="894" y="405" width="108" height="185"/>
+	<SubTexture name="spr_dudenladyw2down_5" x="894" y="591" width="108" height="185"/>
+	<SubTexture name="spr_dudenladyw2down_6" x="894" y="591" width="108" height="185"/>
+	<SubTexture name="spr_dudenladyw2down_7" x="894" y="591" width="108" height="185"/>
+	<SubTexture name="spr_dudenladyw2down_8" x="894" y="591" width="108" height="185"/>
+	<SubTexture name="spr_dudenladyw2down_9" x="894" y="591" width="108" height="185"/>
+	<SubTexture name="spr_dudenladyw2downmiss_0" x="805" y="777" width="104" height="186" frameX="0" frameY="-3" frameWidth="108" frameHeight="189"/>
+	<SubTexture name="spr_dudenladyw2downmiss_1" x="805" y="777" width="104" height="186" frameX="-2" frameY="0" frameWidth="108" frameHeight="189"/>
+	<SubTexture name="spr_dudenladyw2downmiss_2" x="805" y="777" width="104" height="186" frameX="-4" frameY="-2" frameWidth="108" frameHeight="189"/>
+	<SubTexture name="spr_dudenladyw2idle_0" x="0" y="0" width="127" height="208"/>
+	<SubTexture name="spr_dudenladyw2idle_1" x="0" y="209" width="127" height="208"/>
+	<SubTexture name="spr_dudenladyw2idle_2" x="0" y="418" width="127" height="208"/>
+	<SubTexture name="spr_dudenladyw2idle_3" x="0" y="627" width="127" height="208"/>
+	<SubTexture name="spr_dudenladyw2idle_4" x="128" y="0" width="127" height="208"/>
+	<SubTexture name="spr_dudenladyw2left_0" x="583" y="0" width="104" height="218"/>
+	<SubTexture name="spr_dudenladyw2left_1" x="688" y="0" width="104" height="218"/>
+	<SubTexture name="spr_dudenladyw2left_2" x="582" y="445" width="104" height="218"/>
+	<SubTexture name="spr_dudenladyw2left_3" x="687" y="445" width="104" height="218"/>
+	<SubTexture name="spr_dudenladyw2left_4" x="695" y="219" width="104" height="218"/>
+	<SubTexture name="spr_dudenladyw2left_5" x="793" y="0" width="104" height="218"/>
+	<SubTexture name="spr_dudenladyw2left_6" x="793" y="0" width="104" height="218"/>
+	<SubTexture name="spr_dudenladyw2left_7" x="793" y="0" width="104" height="218"/>
+	<SubTexture name="spr_dudenladyw2left_8" x="793" y="0" width="104" height="218"/>
+	<SubTexture name="spr_dudenladyw2left_9" x="793" y="0" width="104" height="218"/>
+	<SubTexture name="spr_dudenladyw2leftmiss_0" x="792" y="438" width="101" height="212" frameX="0" frameY="-2" frameWidth="105" frameHeight="214"/>
+	<SubTexture name="spr_dudenladyw2leftmiss_1" x="792" y="438" width="101" height="212" frameX="-2" frameY="0" frameWidth="105" frameHeight="214"/>
+	<SubTexture name="spr_dudenladyw2leftmiss_2" x="792" y="438" width="101" height="212" frameX="-4" frameY="-2" frameWidth="105" frameHeight="214"/>
+	<SubTexture name="spr_dudenladyw2pause.png" x="692" y="664" width="112" height="201"/>
+	<SubTexture name="spr_dudenladyw2right_0" x="128" y="408" width="126" height="198"/>
+	<SubTexture name="spr_dudenladyw2right_1" x="128" y="607" width="126" height="198"/>
+	<SubTexture name="spr_dudenladyw2right_2" x="255" y="408" width="126" height="198"/>
+	<SubTexture name="spr_dudenladyw2right_3" x="255" y="607" width="126" height="198"/>
+	<SubTexture name="spr_dudenladyw2right_4" x="256" y="0" width="126" height="198"/>
+	<SubTexture name="spr_dudenladyw2right_5" x="256" y="199" width="126" height="198"/>
+	<SubTexture name="spr_dudenladyw2right_6" x="256" y="199" width="126" height="198"/>
+	<SubTexture name="spr_dudenladyw2right_7" x="256" y="199" width="126" height="198"/>
+	<SubTexture name="spr_dudenladyw2right_8" x="256" y="199" width="126" height="198"/>
+	<SubTexture name="spr_dudenladyw2right_9" x="256" y="199" width="126" height="198"/>
+	<SubTexture name="spr_dudenladyw2rightmiss_0" x="128" y="209" width="127" height="198" frameX="0" frameY="-2" frameWidth="132" frameHeight="200"/>
+	<SubTexture name="spr_dudenladyw2rightmiss_1" x="128" y="209" width="127" height="198" frameX="-3" frameY="0" frameWidth="132" frameHeight="200"/>
+	<SubTexture name="spr_dudenladyw2rightmiss_2" x="128" y="209" width="127" height="198" frameX="-5" frameY="-2" frameWidth="132" frameHeight="200"/>
+	<SubTexture name="spr_dudenladyw2up_0" x="382" y="398" width="99" height="240"/>
+	<SubTexture name="spr_dudenladyw2up_1" x="382" y="639" width="99" height="240"/>
+	<SubTexture name="spr_dudenladyw2up_2" x="383" y="0" width="99" height="240"/>
+	<SubTexture name="spr_dudenladyw2up_3" x="482" y="241" width="99" height="240"/>
+	<SubTexture name="spr_dudenladyw2up_4" x="483" y="0" width="99" height="240"/>
+	<SubTexture name="spr_dudenladyw2up_5" x="482" y="482" width="99" height="240"/>
+	<SubTexture name="spr_dudenladyw2up_6" x="482" y="482" width="99" height="240"/>
+	<SubTexture name="spr_dudenladyw2up_7" x="482" y="482" width="99" height="240"/>
+	<SubTexture name="spr_dudenladyw2up_8" x="482" y="482" width="99" height="240"/>
+	<SubTexture name="spr_dudenladyw2up_9" x="482" y="482" width="99" height="240"/>
+	<SubTexture name="spr_dudenladyw2upmiss_0" x="482" y="723" width="96" height="238" frameX="0" frameY="-3" frameWidth="100" frameHeight="241"/>
+	<SubTexture name="spr_dudenladyw2upmiss_1" x="482" y="723" width="96" height="238" frameX="-1" frameY="0" frameWidth="100" frameHeight="241"/>
+	<SubTexture name="spr_dudenladyw2upmiss_2" x="482" y="723" width="96" height="238" frameX="-4" frameY="-2" frameWidth="100" frameHeight="241"/>
+</TextureAtlas>

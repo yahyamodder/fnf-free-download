@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character x="-5" y="-100" antialiasing="false" flipX="true" camx="12" camy="68" isPlayer="true" icon="dude" holdTime="8">
+	<anim name="idle" anim="spr_dudenladyw2idle" fps="12"/>
+	<anim name="singLEFT" anim="spr_dudenladyw2left_" x="12" y="10" fps="12"/>
+	<anim name="singDOWN" anim="spr_dudenladyw2down_" x="5" y="-22" fps="12"/>
+	<anim name="singUP" anim="spr_dudenladyw2up_" x="7" y="29" fps="12"/>
+	<anim name="singRIGHT" anim="spr_dudenladyw2right_" x="-19" y="-12" fps="12"/>
+	<anim name="singLEFTmiss" anim="spr_dudenladyw2leftmiss_" x="10" y="6" fps="12"/>
+	<anim name="singDOWNmiss" anim="spr_dudenladyw2downmiss_" x="-1" y="-18" fps="12"/>
+	<anim name="singUPmiss" anim="spr_dudenladyw2upmiss_" x="2" y="30" fps="12"/>
+	<anim name="singRIGHTmiss" anim="spr_dudenladyw2rightmiss_" x="-21" y="-10" fps="12"/>
+	<anim name="paused" anim="spr_dudenladyw2pause" x="-10" y="-6" fps="12"/>
+	<anim name="ayy" anim="spr_dudenladyw2ayy_" y="-5" fps="12"/>
+	<anim name="ayy-bad" anim="spr_dudenladyw2ayysuck_" y="-5" fps="12"/>
+</character>
